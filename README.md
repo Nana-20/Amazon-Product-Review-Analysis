@@ -83,7 +83,6 @@ Download the full Excel dashboard:
 ## Author
 
 **Naomi Ariyo**  
-Junior Data Analyst @ RetailTech Insights  
 
 
 
